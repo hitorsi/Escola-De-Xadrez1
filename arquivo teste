@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Escola de Xadrez</title>
+  </head>
+  <body>
+    <header>
+      <h1>Escola de Xadrez</h1>
+      <nav>
+        <ul>
+          <li><a href="#about">Botão 1</a></li>
+          <li><a href="#classes">Botão 2</a></li>
+          <li><a href="#contact">Botão 3</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="Sobre a Escola de Xadrez">
+        <h2>Sobre a Escola de Xadrez</h2>
+        <p>Este Clube tem como objetivo tornar o conhecimento sobre xadrez gratuito e livre para todos. Aqui nos compartilharemos livros, puzzles, experiências e etc. Espero que goste e obrigado por participar!</p>
+      </section>
+      <section id="Aceitamos quaisquer pessoas">
+        <h2>Aceitamos quaisquer pessoas</h2>
+        <ul>
+          <li>Iniciantes</li>
+          <li>Intermerdiarios</li>
+          <li>Avançados</li>
+          <li>Profissionais</li>
+        </ul>
+      </section>
+      <section id="Gostou? então entre agora">
+        <h2>Gostou? então entre agora</h2>
+        <p>Gostou? então entre agora</p>
+        <ul>
+          <li><a href="https://www.chess.com/club/escola-de-xadrez">Chess.com</a></li>
+          <li><a href="https://lichess.org/team/escola-de-xadrez-edx">Lichess.org</a></li>
+          <li><a href="https://discord.gg/B7NF8NMKET">Discord</a></li>
+        </ul>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2022 Escola de Xadrez. Todos os direitos reservados.</p>
+    </footer>
+  </body>
+</html>
